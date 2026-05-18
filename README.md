@@ -1,2 +1,2 @@
 # yaridrupal
-Blog grupal en Drupal
+Blog grupal en Drupaal grupo 6
